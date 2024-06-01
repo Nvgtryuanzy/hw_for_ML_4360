@@ -1,2 +1,3 @@
 # hw_for_ML_4360
-ML4360_3DVision_homework
+
+It consists of two part: Pen and paper, and coding(using python)
